@@ -1,0 +1,54 @@
+body{
+    margin: 0px;
+    font-family: 'Poppins', sans-serif;
+}
+.button{
+    background-color:rgb(255, 3, 53);
+    color: white;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 10px;
+}
+.color{
+    color: rgb(243, 10, 57);
+}
+.half-width{
+    
+    width: 350px;
+    float: left;
+ 
+      
+}
+.half-width img{
+    width: 250px;
+    height: 250px;
+  
+}
+.first-section{
+   margin-left: 27%;
+   background-image: url("images/header-bg.png");
+ 
+}
+section{
+height: 200px;
+margin-bottom:100px;
+}
+.bubt-fuck{
+    margin-left:45%; 
+}
+.small-section img{
+    width: 250px;
+    border-radius: 10px;
+}
+.image-section{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+   
+
+}
+.bubt-fuck h2{
+    align-items: center;
+}
